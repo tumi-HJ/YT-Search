@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "nhbtic5YcMPhPhNMBmWt45KvkPQ",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "JP",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iSNvcw2QT-OjuL5psLUSZ3Z8zdY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AKSVu9vnc18"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-11T10:00:04Z",
+        "channelId": "UClKeJXipXwX7_ZGxOBnMQyw",
+        "title": "【大食い】1ヶ月毎日キング牛丼を食べ続けたらどうなるの？【2300kcal】",
+        "description": "はじめしゃちょーの畑です。 前人未到の挑戦を刮目せよ！ 1日1食キング牛丼！！！いただきます！ Day1254 編集:トゥイ 【サブ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AKSVu9vnc18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AKSVu9vnc18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AKSVu9vnc18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "はじめしゃちょー の畑",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-11T10:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yi9ZbuYvK9VToD7Fw9UdNs9XVRc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LUNrOhfEmpk"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-09T09:30:33Z",
+        "channelId": "UCgMPP6RRjktV7krOfyUewqw",
+        "title": "ドライアイスタワーチャレンジ！",
+        "description": "shorts 【MV】YouTuberあるあるソング／はじめしゃちょー https://youtu.be/bfWqN2BpsN8 チャンネル登録よろしくおねがいし ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LUNrOhfEmpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LUNrOhfEmpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LUNrOhfEmpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "はじめしゃちょー（hajime）",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-09T09:30:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QPMcI4wialozyUx2HppLA-iPUQU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_fcBO2uI5ac"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-03T11:50:59Z",
+        "channelId": "UCgMPP6RRjktV7krOfyUewqw",
+        "title": "ダメだこれは。3億円の家にこのままいると死ぬ",
+        "description": "1回目住めない：https://youtu.be/FTT65_f-H5c 2回目住めない：https://youtu.be/mWzHe9LyxNk 【MV】YouTuberあるある ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_fcBO2uI5ac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_fcBO2uI5ac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_fcBO2uI5ac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "はじめしゃちょー（hajime）",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-03T11:50:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CI_gt9C4Nc3hHYbhYohECXZG1tg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E19j5nKaiz4"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-17T09:57:43Z",
+        "channelId": "UCgMPP6RRjktV7krOfyUewqw",
+        "title": "最近殺されかけた話。",
+        "description": "【MV】YouTuberあるあるソング／はじめしゃちょー https://youtu.be/bfWqN2BpsN8 チャンネル登録よろしくおねがいします !",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E19j5nKaiz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E19j5nKaiz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E19j5nKaiz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "はじめしゃちょー（hajime）",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-17T09:57:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rsrxGh5kyjka6s7nBmO81KzH-2s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h0ejN4Y4YmU"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-30T10:00:32Z",
+        "channelId": "UCgMPP6RRjktV7krOfyUewqw",
+        "title": "ハワイの別荘を買おうとしたら値段が◯◯億円超えたwwwwwww",
+        "description": "提供：オープンハウスグループ 「好立地、ぞくぞく。」のキャッチコピーでおなじみオープンハウスグループは、 好立地で ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h0ejN4Y4YmU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h0ejN4Y4YmU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h0ejN4Y4YmU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "はじめしゃちょー（hajime）",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-30T10:00:32Z"
+      }
+    }
+  ]
+}
